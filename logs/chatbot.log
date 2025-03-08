@@ -1,0 +1,60 @@
+2025-02-28 17:15:09,426 - INFO - ==========================================Program dimulai==========================================
+2025-02-28 17:15:38,524 - INFO - ✅ Berhasil menjalankan proses order di server
+2025-02-28 17:15:39,874 - INFO - Total chats ditemukan: 3
+2025-02-28 17:15:40,105 - ERROR - Tidak ada pesan dalam response
+2025-02-28 17:16:17,284 - INFO - ==========================================Balasan AI==========================================
+2025-02-28 17:16:17,284 - INFO - Invoice: None - Status pesanan: None
+2025-02-28 17:16:17,284 - INFO - 👤 salsabilla439_: Hallo ka
+2025-02-28 17:16:17,284 - INFO - 🤖 AI: Tentu, kak! Pesanan akan dikirim setiap sore, perkiraan pengiriman 2-3 hari menggunakan reguler. Semoga cepat sampai ya! Jika ada yang mau ditanyakan, silakan! 😊
+2025-02-28 17:16:17,654 - INFO - ==========================================Balasan AI==========================================
+2025-02-28 17:16:17,654 - INFO - Invoice: None - Status pesanan: None
+2025-02-28 17:16:17,654 - INFO - 👤 nadiaputri.123: Kak, pesanan dengan nomor invoice 2502255MS6GPJC sudah kami terima untuk perubahan model kebaya. Kami akan segera proses permintaan kakak. Terima kasih atas kesabarannya! 😊
+2025-02-28 17:16:17,654 - INFO - 🤖 AI: Kak, maaf banget, tapi pesanan yang sudah masuk tidak bisa dibatalkan. Kakak bisa melakukan pemesanan baru. Kami siap bantu jika ada pertanyaan lain! 😊
+2025-02-28 17:16:17,696 - INFO - ✅ Pesan berhasil dikirim ke salsabilla439_
+2025-02-28 17:16:17,967 - INFO - ✅ Pesan berhasil dikirim ke nadiaputri.123
+2025-02-28 17:16:17,971 - INFO - ==========================================Program selesai==========================================
+2025-03-01 14:39:53,439 - INFO - ==========================================Program dimulai==========================================
+2025-03-01 14:40:08,075 - INFO - ✅ Berhasil menjalankan proses order di server
+2025-03-01 14:40:08,362 - INFO - Total chats ditemukan: 3
+2025-03-01 14:40:08,628 - ERROR - Tidak ada pesan dalam response
+2025-03-01 14:40:08,631 - INFO - Pesan terakhir  bukan text/image/sticker/video/image_with_text (type: item), skip balasan
+2025-03-01 14:40:13,379 - INFO - ==========================================Balasan AI==========================================
+2025-03-01 14:40:13,379 - INFO - Invoice: 241204V3X88Q2P - Status pesanan: COMPLETED
+2025-03-01 14:40:13,380 - INFO - 👤 seveenqueen: Kk saya natalan pesannya dulu ya kk
+2025-03-01 14:40:13,380 - INFO - 🤖 AI: Baik, kak! Jika ada pertanyaan atau butuh bantuan, silakan kabari ya. Kami siap membantu! 😊
+2025-03-01 14:40:13,720 - ERROR - ❌ Gagal mengirim pesan ke seveenqueen
+2025-03-01 14:40:13,726 - INFO - ==========================================Program selesai==========================================
+2025-03-07 02:48:06,202 - INFO - ==========================================Program dimulai==========================================
+2025-03-07 02:48:21,209 - INFO - ✅ Berhasil menjalankan proses order di server
+2025-03-07 02:48:21,807 - INFO - Total chats ditemukan: 8
+2025-03-07 02:48:23,739 - INFO - ==========================================Balasan AI==========================================
+2025-03-07 02:48:23,741 - INFO - ==========================================Balasan AI==========================================
+2025-03-07 02:48:23,743 - INFO - ==========================================Balasan AI==========================================
+2025-03-07 02:48:23,743 - INFO - Invoice: 250306UHYS99U4 - Status pesanan: IN_CANCEL
+2025-03-07 02:48:23,743 - INFO - Invoice: 250303JD5769T2 - Status pesanan: COMPLETED
+2025-03-07 02:48:23,743 - INFO - Invoice: 250305RUTRW422 - Status pesanan: SHIPPED
+2025-03-07 02:48:23,743 - INFO - Tidak ada balasan yang dikirim yulianayana941 karena keluhan sudah ada untuk invoice: 250306UHYS99U4, Status pesanan: IN_CANCEL
+2025-03-07 02:48:23,744 - INFO - Tidak ada balasan yang dikirim muchimmi karena keluhan sudah ada untuk invoice: 250303JD5769T2, Status pesanan: COMPLETED
+2025-03-07 02:48:23,744 - INFO - Tidak ada balasan yang dikirim dnxfa1l9ye karena keluhan sudah ada untuk invoice: 250305RUTRW422, Status pesanan: SHIPPED
+2025-03-07 02:48:23,754 - INFO - ==========================================Balasan AI==========================================
+2025-03-07 02:48:23,757 - INFO - Invoice: 250304PGRHXNM5 - Status pesanan: SHIPPED
+2025-03-07 02:48:23,758 - INFO - Tidak ada balasan yang dikirim cuncantik23 karena keluhan sudah ada untuk invoice: 250304PGRHXNM5, Status pesanan: SHIPPED
+2025-03-07 02:48:23,756 - INFO - ==========================================Balasan AI==========================================
+2025-03-07 02:48:23,760 - INFO - Invoice: 250301DV37TQJ2 - Status pesanan: TO_CONFIRM_RECEIVE
+2025-03-07 02:48:23,760 - INFO - Tidak ada balasan yang dikirim rinirhmdni04 karena keluhan sudah ada untuk invoice: 250301DV37TQJ2, Status pesanan: TO_CONFIRM_RECEIVE
+2025-03-07 02:48:24,846 - INFO - ==========================================Balasan AI==========================================
+2025-03-07 02:48:24,847 - INFO - Invoice: 250306VAFUGU3M - Status pesanan: PROCESSED
+2025-03-07 02:48:24,847 - INFO - 👤 maeemoonn: This message was deleted
+2025-03-07 02:48:24,847 - INFO - 🤖 AI: Kak, sepertinya pesan sebelumnya sudah dihapus. Ada yang bisa saya bantu? 😊
+2025-03-07 02:48:25,108 - INFO - ==========================================Balasan AI==========================================
+2025-03-07 02:48:25,108 - INFO - Invoice: 250305S75RNMJQ - Status pesanan: SHIPPED
+2025-03-07 02:48:25,108 - INFO - 👤 ferasudars1h: Kak yng d kirim navi kn?
+2025-03-07 02:48:25,108 - INFO - 🤖 AI: Kak, untuk pesanan yang sudah dikirim tidak bisa dibatalkan ya. Jika ada perubahan ukuran atau warna, bisa langsung chat kami. Terima kasih!
+2025-03-07 02:48:25,201 - INFO - ==========================================Balasan AI==========================================
+2025-03-07 02:48:25,201 - INFO - Invoice: None - Status pesanan: None
+2025-03-07 02:48:25,202 - INFO - 👤 erizanovi21: Udah 1 set kan itu
+2025-03-07 02:48:25,202 - INFO - 🤖 AI: Iya, kak! Kebaya+rok sudah satu set lengkap, termasuk obi belt/sabuk. Jadi, kakak bisa langsung tampil cantik! Kalau ada yang mau ditanyakan lagi, silakan ya! 😊
+2025-03-07 02:48:25,429 - INFO - ✅ Pesan berhasil dikirim ke ferasudars1h
+2025-03-07 02:48:25,440 - INFO - ✅ Pesan berhasil dikirim ke maeemoonn
+2025-03-07 02:48:25,468 - INFO - ✅ Pesan berhasil dikirim ke erizanovi21
+2025-03-07 02:48:25,475 - INFO - ==========================================Program selesai==========================================
